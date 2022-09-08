@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
+Wellcome!
 
-# Welcome
-
-_yay_
-
-[back](./)
+[home](./)
